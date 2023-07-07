@@ -71,5 +71,3 @@ Link : [HLD](./Documentation/High_Level_Design_HLD.docx)
 
 ## Wireframe Document
 Link : [Wireframe Document](./Documentation/Wireframe-Document.docx)
-
-## UI after deployment 
