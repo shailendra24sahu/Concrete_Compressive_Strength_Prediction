@@ -1,28 +1,28 @@
-2023-07-03/17:29:07		Start of Validation on files for prediction!!
-2023-07-03/17:29:07		Raw Data Validation Complete!!
-2023-07-03/17:29:07		Creating Prediction_Database and tables on the basis of given schema!!!
-2023-07-03/17:29:08		Table creation Completed!!
-2023-07-03/17:29:08		Insertion of Data into Table started!!!!
-2023-07-03/17:29:38		Insertion in Table completed!!!
-2023-07-03/17:29:38		Deleting Good Data Folder!!!
-2023-07-03/17:29:38		Good_Data folder deleted!!!
-2023-07-03/17:29:38		Moving bad files to Archive and deleting Bad_Data folder!!!
-2023-07-03/17:29:38		Bad files moved to archive!! Bad folder Deleted!!
-2023-07-03/17:29:38		Validation Operation completed!!
-2023-07-03/17:29:38		Extracting csv file from table
-2023-07-03/17:29:38		Start of Prediction
-2023-07-03/17:29:38		Entered the get_data method of the Data_Getter class
-2023-07-03/17:29:38		Data Load Successful.Exited the get_data method of the Data_Getter class
-2023-07-03/17:29:38		Entered the is_null_present method of the Preprocessor class
-2023-07-03/17:29:38		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
-2023-07-03/17:29:38		Entered the logTransformation method of the Preprocessor class
-2023-07-03/17:29:38		Log transformation Successful. Exited the logTransformation method of the Preprocessor class
-2023-07-03/17:29:38		Entered the standardScalingData method of the Preprocessor class
-2023-07-03/17:29:38		Scaling of the data Successful. Exited the standardScalingData method of the Preprocessor class
-2023-07-03/17:29:38		Entered the load_model method of the File_Operation class
-2023-07-03/17:29:38		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
-2023-07-03/17:29:38		Entered the find_correct_model_file method of the File_Operation class
-2023-07-03/17:29:38		Exited the find_correct_model_file method of the Model_Finder class.
-2023-07-03/17:29:38		Entered the load_model method of the File_Operation class
-2023-07-03/17:29:38		Model File RandomForestRegressor2 loaded. Exited the load_model method of the Model_Finder class
-2023-07-03/17:29:38		End of Prediction
+2023-07-07/13:32:47		Start of Validation on files for prediction!!
+2023-07-07/13:32:47		Raw Data Validation Complete!!
+2023-07-07/13:32:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-07-07/13:32:48		Table creation Completed!!
+2023-07-07/13:32:48		Insertion of Data into Table started!!!!
+2023-07-07/13:33:18		Insertion in Table completed!!!
+2023-07-07/13:33:18		Deleting Good Data Folder!!!
+2023-07-07/13:33:18		Good_Data folder deleted!!!
+2023-07-07/13:33:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-07-07/13:33:18		Bad files moved to archive!! Bad folder Deleted!!
+2023-07-07/13:33:18		Validation Operation completed!!
+2023-07-07/13:33:18		Extracting csv file from table
+2023-07-07/13:33:18		Start of Prediction
+2023-07-07/13:33:18		Entered the get_data method of the Data_Getter class
+2023-07-07/13:33:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-07-07/13:33:18		Entered the is_null_present method of the Preprocessor class
+2023-07-07/13:33:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-07-07/13:33:18		Entered the logTransformation method of the Preprocessor class
+2023-07-07/13:33:18		Log transformation Successful. Exited the logTransformation method of the Preprocessor class
+2023-07-07/13:33:18		Entered the standardScalingData method of the Preprocessor class
+2023-07-07/13:33:18		Scaling of the data Successful. Exited the standardScalingData method of the Preprocessor class
+2023-07-07/13:33:18		Entered the load_model method of the File_Operation class
+2023-07-07/13:33:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-07-07/13:33:18		Entered the find_correct_model_file method of the File_Operation class
+2023-07-07/13:33:18		Exited the find_correct_model_file method of the Model_Finder class.
+2023-07-07/13:33:18		Entered the load_model method of the File_Operation class
+2023-07-07/13:33:18		Model File RandomForestRegressor2 loaded. Exited the load_model method of the Model_Finder class
+2023-07-07/13:33:18		End of Prediction
