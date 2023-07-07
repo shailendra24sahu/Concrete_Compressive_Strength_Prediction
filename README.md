@@ -6,13 +6,13 @@
 Development of a regression model to predict the compressive strength of concrete. The model will determine what will be the compressive strength of concrete by mixing specific quantities of different components in the concrete making process. 
 
 ## Problem Statement
-Link : [Problem Statement](./Documentation/Conrete-compressive-strength-prediction.docx)
+Link : [Problem Statement](./Documentation/Concrete_Compressive_Strength_Prediction.docx)
 
 ## Exploratory Data Analysis 
 Link : [EDA Notebook](./EDA/ConcreteStrength.ipynb)
 
 ## Architecture Design
-Link : [Architecture Design](./Documentation/Architecture-Design.docx)
+Link : [Architecture Design](./Documentation/Architecture_Design.docx)
 
 
 # How to run?
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-python application.py
+python main.py
 ```
 
 Now,
@@ -70,4 +70,4 @@ Link : [LLD](./Documentation/Low_Level_Design_LLD.docx)
 Link : [HLD](./Documentation/High_Level_Design_HLD.docx)
 
 ## Wireframe Document
-Link : [Wireframe Document](./Documentation/Wireframe-Document.docx)
+Link : [Wireframe Document](./Documentation/Wireframe_Document.docx)
