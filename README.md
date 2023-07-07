@@ -14,10 +14,6 @@ Link : [EDA Notebook](./EDA/ConcreteStrength.ipynb)
 ## Architecture Design
 Link : [Architecture Design](./Documentation/Architecture-Design.docx)
 
-## Model Training
-Link : [Model Training file](train.py)
-
-
 
 # How to run?
 ### STEPS:
@@ -54,8 +50,12 @@ Now,
 open up you local host and port
 ```
 
+# Demo-Preview
+![prediction gif](https://github.com/shailendra24sahu/Concrete_Compressive_Strength_Prediction/assets/101089059/1ac55ea1-d1d4-440c-acf1-983a1ec2f6ce)
 
 
+## Model Training
+Link : [Model Training file](train.py)
 
 
 # Documentation
