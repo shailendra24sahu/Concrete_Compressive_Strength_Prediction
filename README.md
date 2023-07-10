@@ -6,13 +6,13 @@
 Development of a regression model to predict the compressive strength of concrete. The model will determine what will be the compressive strength of concrete by mixing specific quantities of different components in the concrete making process. 
 
 ## Problem Statement
-Link : [Problem Statement](./Documentation/Concrete_Compressive_Strength_Prediction.docx)
+Link : [Problem Statement](./Documentation/Concrete_Compressive_Strength_Prediction.pdf)
 
 ## Exploratory Data Analysis 
 Link : [EDA Notebook](./EDA/ConcreteStrength.ipynb)
 
 ## Architecture Design
-Link : [Architecture Design](./Documentation/Architecture_Design.docx)
+Link : [Architecture Design](./Documentation/Architecture_Design.pdf)
 
 
 # How to run?
@@ -47,7 +47,7 @@ python main.py
 
 Now,
 ```bash
-open up you local host and port
+open up your local host and port
 ```
 
 # Demo-Preview
@@ -61,13 +61,13 @@ Link : [Model Training file](train.py)
 # Documentation
 
 ## Detailed Project Report
-Link : [DPR](./Documentation/DPR.pptx)
+Link : [DPR](./Documentation/DPR.pdf)
 
 ## Low Level Design
-Link : [LLD](./Documentation/Low_Level_Design_LLD.docx)
+Link : [LLD](./Documentation/Low_Level_Design_LLD.pdf)
 
 ## Hign Level Design
-Link : [HLD](./Documentation/High_Level_Design_HLD.docx)
+Link : [HLD](./Documentation/High_Level_Design_HLD.pdf)
 
 ## Wireframe Document
-Link : [Wireframe Document](./Documentation/Wireframe_Document.docx)
+Link : [Wireframe Document](./Documentation/Wireframe_Document.pdf)
