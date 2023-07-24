@@ -53,13 +53,13 @@ open up your local host and port
 # Demo-Preview
 ![prediction gif](https://github.com/shailendra24sahu/Concrete_Compressive_Strength_Prediction/assets/101089059/1ac55ea1-d1d4-440c-acf1-983a1ec2f6ce)
 
-
-## Model Training
-Link : [Model Training file](train.py)
 Video :
 
 ![Demo Video](https://github.com/shailendra24sahu/Concrete_Compressive_Strength_Prediction/assets/101089059/a9e19efc-a6b0-4127-bbb3-e062ed3727e8)
 
+
+## Model Training
+Link : [Model Training file](train.py)
 
 
 # Documentation
