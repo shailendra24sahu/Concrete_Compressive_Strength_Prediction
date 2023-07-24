@@ -56,6 +56,10 @@ open up your local host and port
 
 ## Model Training
 Link : [Model Training file](train.py)
+Video :
+
+![Demo Video](https://github.com/shailendra24sahu/Concrete_Compressive_Strength_Prediction/assets/101089059/a9e19efc-a6b0-4127-bbb3-e062ed3727e8)
+
 
 
 # Documentation
